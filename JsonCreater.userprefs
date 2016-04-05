@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="JsonCreater/JsonCreater.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonCreater/Main.cs">
+    <Files>
+      <File FileName="JsonCreater/AppDelegate.cs" Line="13" Column="1" />
+      <File FileName="JsonCreater/Main.cs" Line="17" Column="52" />
+      <File FileName="JsonCreater/TextConverter.cs" Line="8" Column="26" />
+      <File FileName="JsonCreater/AppModel.cs" Line="52" Column="28" />
+      <File FileName="JsonCreater/TxtJsonConverter.cs" Line="42" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
